@@ -1,0 +1,6 @@
+.env
+__pycache__/
+bd.sqlite3
+.DS_Store
+local_settings.py
+media
